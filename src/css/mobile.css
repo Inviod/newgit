@@ -1,0 +1,167 @@
+*{margin: 0; padding: 0;list-style: none;}
+html{font-size: 10px;}
+.logo>img{
+	width: 100%;
+}
+.logo ul{
+	margin-left:0px ;
+	width: 100%;
+}
+.logo>ul>li{
+	text-align: center;
+	width: 50%;
+	float: left;
+	font-size: .5rem;	
+}
+#del1,#del2{line-height:1rem;}
+.highlight{
+	border-bottom: 2px solid #f22d48;
+}
+.logo{padding: 10px;}
+.logo:after{
+	content: "";
+	clear: both;
+	display: block;
+}
+.logo:after{
+	content: "";
+	clear: both;
+	display: block;
+}
+#login-box{width: 100%;}
+#login-box:after{
+	content: "";
+	display: block;
+	clear: both;
+}
+#usernames,#passwords{
+	width: 90%;
+	height:40px;
+	margin: 0 auto;
+	background: #f1f1f1;
+	}
+#usernames p,#passwords p{
+	margin-left:50px;
+	display:block;
+	padding:0 0 ;
+	height: 40px;
+	box-shadow: none;
+
+	}
+#usernames input,#passwords input{
+	width: 100%;
+    display: block;
+    padding: 0;
+    box-shadow: none;
+    outline-color: #f1f1f1;
+    border: none;
+    background: #f1f1f1;
+    height: 40px;
+    margin-right: 0px;
+	}
+#usernames img,#passwords img{
+	height:40px;
+	width:40px;
+	float: left;
+	}
+#usernames{margin-top: 60px;}
+#passwords{margin-top: 40px;}
+#usernames:after{
+	content: "";
+	display: block;
+	clear: both;
+}
+#passwords:after{
+	content: "";
+	display: block;
+	clear: both;
+}
+#submitbtn{
+	height: 40px;
+	width: 90%;
+	border: none;
+	margin:0 auto;
+	margin-top:64px;
+	background: #e60012;
+	border-radius:10px ;
+	}
+.submit{
+	font-size: .5rem;
+	width: 100%;
+	height: 40px;
+	color: white;
+	background: #e60012;
+	border: none;
+	border-radius:10px ;
+	outline: none;
+}
+#symbol{width: 90%;margin: 0 auto;}
+#submitbtn:after{
+	content: "";
+	display: block;
+	clear: both;
+}
+#symbol:after{
+	content: "";
+	display: block;
+	clear: both;
+}
+#login-box{display:block;}
+#check{
+	width: 90%;
+	height:40px;
+	margin:0 auto;
+	margin-top:48px;background: #f1f1f1;
+}
+#check img{
+	width: 40px;
+	height: 40px;
+	float: left;
+}
+#check p{
+	margin-left:50px;
+	height: 40px;
+	display: block;
+	box-shadow: none;
+	margin-right:80px;
+}
+#check input{
+	width: 100%;
+	/*margin-left: 40px;*/
+	height: 40px;
+	box-shadow: none;
+	outline-color:#f1f1f1;
+	border: none;
+	background: #f1f1f1;
+	padding:0;
+}
+#get-check{
+	    width: 80px;
+    text-align: center;
+    height: 40px;
+    line-height: 40px;
+    color: white;
+    background: #e60012;
+    float: right;
+}
+#note{
+	width: 90%;
+	font-size: 16px;
+	color: #cbcbcb;
+	margin:20px auto 198px;
+	height: 20px;
+}
+#note p{
+	height: 20px;
+}
+#checkbox{zoom:150%;margin-top: -2px;}
+#regist-box{display: none;}
+h1{
+	display: none;
+}
+.cont{
+	font-size: 10px;
+}
+.ui-checkbox{
+	float:left;
+}
